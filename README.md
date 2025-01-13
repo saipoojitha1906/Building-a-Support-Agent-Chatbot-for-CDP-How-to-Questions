@@ -122,6 +122,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## **Contributors**
-- **Sriram**: [gaddojusriram@gmail.com]  
-- Feel free to contribute by submitting pull requests or reporting issues!  
+- **Sambangi Venkata Sai Poojitha** 
 
